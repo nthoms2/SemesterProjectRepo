@@ -21,9 +21,180 @@
     <ClCompile Include="World.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Attack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Peck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dopeymon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticShock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Munch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SloberShot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scratch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MudBall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Stomp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MagmaBelch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HeadBonk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LeafTouch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SandBlast.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Juice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Wiggle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MarkTerritory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Elechick.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lazator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Snoth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hellipo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Galapagoat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Keechi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dunisaur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Melork.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Guppy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Battle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="World.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Attack.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Peck.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dopeymon.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticShock.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Munch.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SloberShot.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Scratch.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MudBall.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Stomp.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MagmaBelch.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeadBonk.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LeafTouch.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SandBlast.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Juice.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wiggle.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MarkTerritory.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Elechick.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lazator.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Snoth.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hellipo.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Galapagoat.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Keechi.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dunisaur.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Melork.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Guppy.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AllDopeymon.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Battle.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

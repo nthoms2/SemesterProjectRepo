@@ -123,10 +123,67 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Attack.cpp" />
+    <ClCompile Include="Battle.cpp" />
+    <ClCompile Include="Dopeymon.cpp" />
+    <ClCompile Include="Dunisaur.cpp" />
+    <ClCompile Include="Elechick.cpp" />
+    <ClCompile Include="Galapagoat.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Guppy.cpp" />
+    <ClCompile Include="HeadBonk.cpp" />
+    <ClCompile Include="Hellipo.cpp" />
+    <ClCompile Include="Juice.cpp" />
+    <ClCompile Include="Keechi.cpp" />
+    <ClCompile Include="Lazator.cpp" />
+    <ClCompile Include="LeafTouch.cpp" />
+    <ClCompile Include="MagmaBelch.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MarkTerritory.cpp" />
+    <ClCompile Include="Melork.cpp" />
+    <ClCompile Include="MudBall.cpp" />
+    <ClCompile Include="Munch.cpp" />
+    <ClCompile Include="Peck.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="SandBlast.cpp" />
+    <ClCompile Include="Scratch.cpp" />
+    <ClCompile Include="SloberShot.cpp" />
+    <ClCompile Include="Snoth.cpp" />
+    <ClCompile Include="StaticShock.cpp" />
+    <ClCompile Include="Stomp.cpp" />
+    <ClCompile Include="Wiggle.cpp" />
     <ClCompile Include="World.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AllDopeymon.h" />
+    <ClInclude Include="Attack.h" />
+    <ClInclude Include="Battle.h" />
+    <ClInclude Include="Dopeymon.h" />
+    <ClInclude Include="Dunisaur.h" />
+    <ClInclude Include="Elechick.h" />
+    <ClInclude Include="Galapagoat.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Guppy.h" />
+    <ClInclude Include="HeadBonk.h" />
+    <ClInclude Include="Hellipo.h" />
+    <ClInclude Include="Juice.h" />
+    <ClInclude Include="Keechi.h" />
+    <ClInclude Include="Lazator.h" />
+    <ClInclude Include="LeafTouch.h" />
+    <ClInclude Include="MagmaBelch.h" />
+    <ClInclude Include="MarkTerritory.h" />
+    <ClInclude Include="Melork.h" />
+    <ClInclude Include="MudBall.h" />
+    <ClInclude Include="Munch.h" />
+    <ClInclude Include="Peck.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="SandBlast.h" />
+    <ClInclude Include="Scratch.h" />
+    <ClInclude Include="SloberShot.h" />
+    <ClInclude Include="Snoth.h" />
+    <ClInclude Include="StaticShock.h" />
+    <ClInclude Include="Stomp.h" />
+    <ClInclude Include="Wiggle.h" />
     <ClInclude Include="World.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

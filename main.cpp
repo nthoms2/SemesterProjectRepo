@@ -1,12 +1,12 @@
 #include <iostream>
-#include "World.h"
+#include "Game.h"
 using namespace std;
 
 int main()
 {
-	World world;
-
-	world.displayArray();
+	
+	Game game;
+	game.adventure();
 		
 	return 0;
 }
